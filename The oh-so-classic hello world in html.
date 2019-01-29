@@ -1,0 +1,10 @@
+//For this file, I'll append the sufficient code for a fully-working 'hello world' webpage, written in html.
+
+<html>
+<header><title>This is title</title></header>
+<body>
+Hello world
+</body>
+</html>
+
+//Peace out.
